@@ -14,14 +14,14 @@
 <h2>Technical Skills</h2>
 <ul>
   <li>Programming Languages: Python, C</li>
-  <li>Tools: Git, GitHub, VS Codw</li>
+  <li>Tools: Git, GitHub, VS Code</li>
   <li>Areas of Interest: Data Engineering, Machine Learning, AI</li>
 </ul>
 
 <h2>Current Projects</h2>
 <ul>
   <li>🎥 Short film project exploring psychological thrillers and suspense.</li>
-  <li>📊 Working on Python-based data analysis.</li>
+  <li>📊 Working on Python-based Data Engineering.</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
